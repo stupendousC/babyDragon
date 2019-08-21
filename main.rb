@@ -6,7 +6,7 @@ yoshi = BabyDragon.new("Yoshi")
 
 gets
 
-puts "\nWhat color is little #{yoshi.name}?"
+puts "\nI wonder what color little #{yoshi.name} is..."
 gets
 puts yoshi.check_color
 gets
